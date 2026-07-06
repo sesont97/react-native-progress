@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-progress
+# @react-native-ohos/react-native-progress
 
 This project is based on [react-native-progress](https://github.com/react-native-oh-library/react-native-progress)
 

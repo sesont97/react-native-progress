@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-oh-tpl/react-native-progress",
-  "version": "5.0.1-0.0.3",
+  "name": "@react-native-ohos/react-native-progress",
+  "version": "5.0.2",
   "description": "Progress indicators and spinners for React Native using ReactART",
   "main": "index.js",
   "scripts": {
